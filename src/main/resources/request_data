@@ -1,0 +1,28 @@
+{
+  "calls": [
+    {
+      "id": 1,
+      "representative": "A1"
+    },
+    {
+      "id": 2,
+      "representative": "A1"
+    },
+    {
+      "id": 3,
+      "representative": "A1"
+    },
+    {
+      "id": 4,
+      "representative": "A2"
+    },
+    {
+      "id": 5,
+      "representative": "A2"
+    },
+    {
+      "id": 6,
+      "representative": "A2"
+    }
+  ]
+}

@@ -9,5 +9,8 @@
         <module name="dixiHealth" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dixiHealth" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

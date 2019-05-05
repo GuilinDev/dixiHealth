@@ -1,0 +1,11 @@
+create table call_limit (
+	id VARCHAR(10) primary key,
+	limits INT,
+	group_ind char(1)
+);
+
+insert into call_limit values('A1', 2, 'N');
+
+insert into call_limit values('A2', 3, 'N');
+
+insert into call_limit values('G', 4, 'Y');
